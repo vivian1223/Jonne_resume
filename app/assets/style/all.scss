@@ -1,0 +1,165 @@
+@import 'reset';
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.center{
+    margin: 0 auto;
+}
+.header{
+    height: 958px;
+    width: 100%;
+    background-image: url('https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/master/week2/banner.png');
+}
+.container-s{
+    width: 304px;
+}
+.container-m{
+    width: 412px;
+}
+.container-l{
+    width: 1200px;
+}
+.w-s{
+    width: 384px;
+}
+.wrap{
+    width: 1920px;
+}
+.mb-s{
+    margin-bottom: 20px;
+}
+.me-xs{
+    padding-right: 12px;
+}
+.me-s{
+margin-right: 16px;
+}
+.me-m{
+    margin-right: 24px;
+}
+.ms-xs{
+    margin-left: 12px;
+}
+.mt-xxs{
+    margin-top: 4px;
+}
+.mt-xs{
+    margin-top: 8px;
+}
+.mt-s{
+    margin-top: 24px;
+}
+.mt-m{
+    margin-top: 28px;
+}
+.mt-l{
+    margin-top: 40px;
+}
+.mt-xl{
+    margin-top: 56px!important;
+}
+.mb-s{
+    margin-bottom: 12px;
+}
+.mb-m{
+    margin-bottom: 16px;
+}
+.mb-l{
+    margin-bottom: 32px;
+}
+.mb-xl{
+    margin-bottom: 48px;
+}
+.mb-xxl{
+    margin-bottom: 62px;
+}
+.pt-s{
+    padding-top: 56px;
+}
+.pt-m{
+    padding-top: 64px;
+}
+.pt-l{
+    padding-top: 308px;
+}
+.pb-s{
+    padding-bottom: 56px;
+}
+.pb-m{
+    padding-bottom: 64px;
+}
+.pb-l{
+    padding-bottom: 144px;
+}
+.pb-xl{
+    padding-bottom: 160px;
+}
+.center{
+    margin: 0 auto;
+}
+.text-white{
+    color: #fff;
+}
+.fs-s{
+    font-size: 20px;
+}
+.fs-m{
+    font-size: 24px;
+}
+.fs-l{
+    font-size: 64px;
+}
+.fs-xl{
+    font-size: 80px;
+}
+.lh-xs{
+    line-height: 28px;
+}
+.lh-s{
+    line-height: 30px;
+}
+.lh-m{
+    line-height: 32px;
+}
+.lh-l{
+    line-height: 36px;
+}
+.lh-xl{
+    line-height: 84px;
+}
+.lh-xxl{
+    line-height: 106px;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.justify-content-around{
+    justify-content: space-around;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.align-items-center{
+    align-items: center;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+.flex-column{
+    flex-direction: column;
+}
+.text-center{
+    text-align: center;
+}
+.bullet-point-red{
+    border-radius: 50px;
+    background-color: #891818;
+    width: 22px;
+    height:22px;
+    margin-right: 16px;
+}
+.bg-black{
+    background-color: #000;
+}
